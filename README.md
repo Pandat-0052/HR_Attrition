@@ -31,7 +31,4 @@ Here's a preview of the HR Attrition Dashboard showcasing key insights and visua
 ## Feedback and Collaboration
 I'm open to feedback and collaboration on this project. Let's discuss innovative workforce strategies and data-driven decision-making.
 
-## Tags
-#DataAnalytics #HRAnalytics #EmployeeRetention #DataDrivenDecisions #DataAnalysis #DataVisualization #Dashboard
-
 Let's drive positive changes together! 🚀
