@@ -1,4 +1,4 @@
-# HR Attrition Dashboard Project
+# <p align ="center"> HR Attrition Dashboard Project
 
 ## Overview
 Welcome to my HR Attrition Dashboard project! In this project, I've developed a comprehensive dashboard using Excel to analyze and understand employee turnover trends within the organization. This dashboard provides valuable insights into attrition rates, demographic breakdowns, and education-related attrition patterns.
